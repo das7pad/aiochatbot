@@ -1,0 +1,16 @@
+# Byte-compiled / optimized
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# virtualenv
+.venv
+venv/
+
+# IDE
+\.idea/
+.~c9*
+
+# Cache
+.cache
